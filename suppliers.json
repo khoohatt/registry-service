@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "baseUrl": "https://test1.ru/api",
+    "apiKey": "key-1"
+  },
+  {
+    "id": 2,
+    "baseUrl": "https://test2.ru",
+    "apiKey": "key-2"
+  }
+]
